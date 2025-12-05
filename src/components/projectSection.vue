@@ -7,7 +7,7 @@ const projects = [
         description: "Aplikasi kasir berbasis mobile untuk UMKM. Mengelola stok secara real-time, mencatat transaksi penjualan, dan menghasilkan laporan keuangan otomatis.",
         tags: ["React Native CLI", "Typescript", "CSS"],
         image: "https://www.soltius.co.id/site/uploads/images/5e2480cf5e14a-point-of-sales-software.jpg",
-        repoLink: "https://github.com/RigiYS/larisin",
+        repoLink: "https://github.com/RigiYS/larisinApp",
         demoLink: "#"
     },
     {
@@ -23,7 +23,7 @@ const projects = [
         description: "Backend Service (RESTful API) untuk sistem perpustakaan. Menangani autentikasi user dengan JWT, logika dengan otomatis, dan relasi database yang kompleks.",
         tags: ["Express.js", "Node.js", "MySQL", "JWT Auth"],
         image: "https://nusabot.id/blog/wp-content/uploads/2024/07/gabriel-heinzer-g5jpH62pwes-unsplash.jpg",
-        repoLink: "-",
+        repoLink: "https://github.com/RigiYS/Library-Book-Lending-Online-API",
         demoLink: "-"
     },
 ]
