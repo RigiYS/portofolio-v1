@@ -47,6 +47,10 @@ const navLinks = [
                     class="block px-3 py-2 rounded-md text-base font-medium text-slate-600 hover:text-indigo-600 hover:bg-gray-50">
                     {{ item.name }}
                 </a>
+                <a href="mailto:rigiyuda123@gmail.com"
+                    class="block w-full text-center mt-4 px-3 py-3 rounded-lg text-base font-bold text-white bg-slate-900 hover:bg-indigo-600 shadow-md transition-all">
+                    Hire Me
+                </a>
             </div>
         </div>
     </nav>
