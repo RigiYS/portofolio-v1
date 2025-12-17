@@ -19,19 +19,16 @@ const skills = [
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="grid md:grid-cols-2 gap-12 items-center">
 
-            <div data-aos="fade-right">
+            <div data-aos="fade-up">
                 <h2 class="text-3xl font-extrabold text-slate-900 mb-6">
                     About Me
                 </h2>
                 <div class="prose prose-lg text-slate-600 space-y-4">
                     <p>
-                        Sebagai mahasiswa <strong>Teknik Informatika semester 5</strong>, perjalanan saya bukan hanya tentang menghafal sintaks, tapi tentang memecahkan masalah nyata.
+                        A fifth-semester <strong>computer science</strong> student specializing in <strong>front-end development</strong>.
                     </p>
                     <p>
-                        Saya memiliki pola pikir <strong>"T-Shaped Developer"</strong>. Ketertarikan mendalam saya ada pada <strong>Front-End Development</strong>-menerjemahkan logika kompleks menjadi antarmuka yang intuitif, responsif, dan nyaman digunakan oleh user.
-                    </p>
-                    <p>
-                        Saat ini, saya sedang mencari kesempatan <strong>Magang (Internship)</strong> di mana saya bisa berkontribusi pada pengembangan UI/UX produk nyata dan belajar dari tim developer yang berpengalaman.
+                        Experienced in building scalable web and mobile applications using <strong>React Native</strong>, <strong>Vue.js</strong>, and<strong> Node.js</strong>. I don't just write code; I focus on system efficiency and clean architecture.
                     </p>
                 </div>
 
@@ -47,12 +44,12 @@ const skills = [
                 </div>
             </div>
 
-            <div class="bg-white p-8 rounded-2xl shadow-xl border border-slate-100 relative overflow-hidden" data-aos="fade-left" data-aos-delay="200">
+            <div class="bg-white p-8 rounded-2xl shadow-xl border border-slate-100 relative overflow-hidden" data-aos="fade-up" data-aos-delay="200">
                 <div class="absolute top-0 right-0 -mt-4 -mr-4 w-24 h-24 bg-indigo-50 rounded-full blur-xl opacity-50"></div>
 
                 <h3 class="text-xl font-bold text-slate-900 mb-6 flex items-ceter gap-2">
                     <svg class="w-5 h-5 text-indigo-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4"></path></svg>
-                    Technical Skills
+                    Skills
                 </h3>
 
                 <div class="space-y-6">

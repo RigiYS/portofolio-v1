@@ -15,7 +15,7 @@ const navLinks = [
 
                 <div class="flex-shrink-0 flex items-center">
                     <a href="#" class="text-2xl font-bold text-slate-900 tracking-tighter">
-                        Rigi<span class="text-indigo-600">.Dev</span>
+                       Muhammad Rigi<span class="text-indigo-600"> Yuda Syahrial</span>
                     </a>
                 </div>
 
@@ -24,8 +24,8 @@ const navLinks = [
                         {{ item.name }}
                         <span class="absolute -bottom-1 left-0 w-0 h-0.5 bg-indigo-600 transition-all duration-300 group-hover:w-full"></span>
                     </a>
-                    <a href="https://wa.me/6281385605396"
-                        class="px-5 py-2.5 text-sm font-bold text-white bg-slate-900 rounded-lg hover:bg-indigo-600 transition-all shadow-lg hover:shadow-indigo-500/30">
+                    <a href="mailto:rigiyuda123@gmail.com"
+                        class="px-5 py-2.5 text-sm font-bold text-white rounded-lg shadow-lg hover:shadow-indigo-500/30 bg- transition duration-300 ease-in-out hover:-translate-y-1 hover:scale-110 hover:bg-indigo-500 glow-on-hover">
                         Hire Me
                     </a>
                 </div>
@@ -47,8 +47,8 @@ const navLinks = [
                     class="block px-3 py-2 rounded-md text-base font-medium text-slate-600 hover:text-indigo-600 hover:bg-gray-50">
                     {{ item.name }}
                 </a>
-                <a href="https://wa.me/6281385605396"
-                    class="block w-full text-center mt-4 px-3 py-3 rounded-lg text-base font-bold text-white bg-slate-900 hover:bg-indigo-600 shadow-md transition-all">
+                <a href="mailto:rigiyuda123@gmail.com"
+                    class="block w-full text-center mt-4 px-3 py-3 rounded-lg text-base font-bold text-white bg-slate-900 hover:bg-indigo-600 shadow-md transition-all glow-on-hover">
                     Hire Me
                 </a>
             </div>

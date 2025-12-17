@@ -28,7 +28,7 @@ const currentYear = new Date().getFullYear();
 
                 <div class="text-center md:text-left">
                     <h2 class="text-2xl font-bold text-white tracking-tighter mb-2">
-                        Rigi<span class="text-indigo-500">.Dev</span>
+                        Muhammad Rigi<span class="text-indigo-500"> Yuda Syahrial</span>
                     </h2>
                     <p class="text-sm text-slate-400 max-w-xs">
                         Membangun solusi digital yang andal dengan fokus pada performa dan pengalaman pengguna.
