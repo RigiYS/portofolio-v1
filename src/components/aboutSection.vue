@@ -6,7 +6,7 @@ const skills = [
     },
     {
         category: "Back-End Development",
-        items: ["Node.js", "Express.js", "Laravel", "RESTful API Design", "Database Management (MySQL)"]
+        items: ["Node.js", "Express.js", "RESTful API Design"]
     },
     {
         category: "Database & Tools",

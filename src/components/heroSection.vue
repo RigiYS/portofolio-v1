@@ -27,7 +27,7 @@
                     </h1>
 
                     <p class="mt-6 text-lg text-slate-600 leading-relaxed">
-                        Mahasiswa Teknik Informatika semester 5 yang siap menerjemahkan kebutuhan bisnis menjadi fitur fungsional. Fokus pada skalabilitas sistem menggunakan <strong>Node.js</strong>, <strong>Laravel</strong>, dan <strong>Vue.js</strong>
+                        Mahasiswa Teknik Informatika semester 5 yang siap menerjemahkan kebutuhan bisnis menjadi fitur fungsional. Fokus pada skalabilitas sistem menggunakan <strong>Node.js</strong>, <strong>React</strong>, dan <strong>Vue.js</strong>
                     </p>
 
                     <div class="mt-8 flex flex-col sm:flex-row gap-4 sm:justify-center lg:justify-start">
@@ -58,7 +58,7 @@
                                 <div class="mt-4 p-3 bg-slate-50 rounded text-xs font-mono text-slate-500">
                                     <span class="text-indigo-500">const</span> <span class="text-blue-600">developer</span> = {<br>
                                     &nbsp;&nbsp;name:<span class="text-green-600">'Muhammad Rigi Yuda Syahrial'</span>,<br>
-                                    &nbsp;&nbsp;stack: [<span class="text-green-600">'Vue'</span>, <span class="text-green-600">'Laravel'</span>, <span class="text-green-600">'Tailwind CSS'</span>]<br>
+                                    &nbsp;&nbsp;stack: [<span class="text-green-600">'Vue'</span>,<span class="text-green-600">'React'</span>,<span class="text-green-600">'Tailwind CSS'</span>]<br>
                                 };
                                 </div>
                             </div>
