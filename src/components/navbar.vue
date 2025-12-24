@@ -15,7 +15,7 @@ const navLinks = [
 
                 <div class="flex-shrink-0 flex items-center">
                     <a href="#" class="text-2xl font-bold text-slate-900 tracking-tighter">
-                       Muhammad Rigi<span class="text-indigo-600"> Yuda Syahrial</span>
+                       Rigi<span class="text-indigo-600"> Dev</span>
                     </a>
                 </div>
 

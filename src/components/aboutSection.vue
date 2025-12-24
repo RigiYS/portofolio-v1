@@ -2,7 +2,7 @@
 const skills = [
     {
         category: "Front-End Development",
-        items: ["Vue.js 3", "Tailwind CSS", "HTML", "CSS", "JavaScript (ES6+)"]
+        items: ["Vue.js 3", "React", "Tailwind CSS", "HTML", "CSS", "JavaScript (ES6+)"]
     },
     {
         category: "Back-End Development",

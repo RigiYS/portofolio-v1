@@ -27,7 +27,7 @@
                     </h1>
 
                     <p class="mt-6 text-lg text-slate-600 leading-relaxed">
-                        Mahasiswa Teknik Informatika semester 5 yang siap menerjemahkan kebutuhan bisnis menjadi fitur fungsional. Fokus pada skalabilitas sistem menggunakan <strong>Node.js</strong>, <strong>React</strong>, dan <strong>Vue.js</strong>
+                        A fifth-semester computer science student who is ready to translate business needs into functional features. Focuses on system scalability using <strong>Node.js</strong>, <strong>Express.js</strong>, and <strong>Vue.js</strong>.
                     </p>
 
                     <div class="mt-8 flex flex-col sm:flex-row gap-4 sm:justify-center lg:justify-start">
