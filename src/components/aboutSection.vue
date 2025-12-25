@@ -19,7 +19,7 @@ const skills = [
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="grid md:grid-cols-2 gap-12 items-center">
 
-            <div data-aos="fade-up">
+            <div data-aos="fade-right">
                 <h2 class="text-3xl font-extrabold text-slate-900 mb-6">
                     About Me
                 </h2>
@@ -44,7 +44,7 @@ const skills = [
                 </div>
             </div>
 
-            <div class="bg-white p-8 rounded-2xl shadow-xl border border-slate-100 relative overflow-hidden" data-aos="fade-up" data-aos-delay="200">
+            <div class="bg-white p-8 rounded-2xl shadow-xl border border-slate-100 relative overflow-hidden" data-aos="fade-left" data-aos-delay="200">
                 <div class="absolute top-0 right-0 -mt-4 -mr-4 w-24 h-24 bg-indigo-50 rounded-full blur-xl opacity-50"></div>
 
                 <h3 class="text-xl font-bold text-slate-900 mb-6 flex items-ceter gap-2">
